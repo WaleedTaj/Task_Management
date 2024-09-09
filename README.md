@@ -25,7 +25,7 @@ Follow these steps to set up the app locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/WaleedTaj/basic_animations.git
+   git clone https://github.com/WaleedTaj/Task_Management.git
    ```
 2. **Install Dependencies**:
    ```bash
