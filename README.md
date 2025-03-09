@@ -31,10 +31,10 @@ Follow these steps to set up the app locally:
    ```bash
    flutter pub get
    ```
-4. **Set up Firebase**:
+3. **Set up Firebase**:
 - Create a Firebase project and enable Firestore and Authentication.
 - Download the google-services.json (for Android) and GoogleService-Info.plist (for iOS) and add them to the respective folders.
-3. **Run the App**:
+4. **Run the App**:
    ```bash
    flutter run
    
